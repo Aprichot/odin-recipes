@@ -1,6 +1,25 @@
+#body {
+    background-color: rgb(255, 251, 247);
+}
+
+#links, .button {
+    text-align: center;
+    font-family: Arsenal, verdana, Helvetica;
+    font-size: 25px;
+}
+
+#links {
+    padding-top: 2%;
+    color: yellow;
+}
+
+.button:hover {
+    background-color: tomato;
+}
+
 .header {
-color: rgb(52, 95, 52);
-background-color: ivory;
+color: rgb(69, 122, 69);
+background-color: rgb(255, 199, 125);
 font-family: Amatic SC, cursive, sans-serif;
 font-size: 70px;
 font-weight: 700;
