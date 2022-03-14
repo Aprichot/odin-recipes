@@ -1,0 +1,50 @@
+#body {
+    background-color: rgb(255, 251, 247);
+}
+
+.text, .title, .header, .section, #ingredients, .source {
+    font-family: Arsenal, verdana, Helvetica;
+}
+
+.title, .text, .image {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    height: 300px;
+    width: auto;
+    justify-content: center;
+}
+
+.source {
+    text-align: center;
+}
+
+.title {
+    color: rgb(53, 36, 36);
+    background-color: rgb(160, 142, 137);
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header, .section {
+    color: rgb(124, 29, 6);
+    font-size: 35px;
+}
+
+.header {
+    padding-left: 5%;
+}
+
+#ingredients, .section {
+    padding-left: 10%;
+}
+.text {
+    font-size: 20px;
+}
+
+.section {
+    font-size: 20px;
+}
