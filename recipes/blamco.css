@@ -1,0 +1,53 @@
+#body {
+    background-color: rgb(255, 251, 247);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.text, .title, .header, .section, #ingredients, .source {
+    font-family: Arsenal, verdana, Helvetica;
+}
+
+.title, .text, .image {
+    text-align: center;
+}
+
+.image {
+    align-self: center;
+}
+
+.source {
+    text-align: center;
+}
+
+.title {
+    color: rgb(53, 36, 36);
+    background-color: rgb(160, 142, 137);
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header, .section {
+    color: rgb(124, 29, 6);
+    font-size: 35px;
+}
+
+.header {
+    
+}
+
+#ingredients, .section {
+    
+}
+.text {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.section {
+    font-size: 20px;
+}
