@@ -7,7 +7,7 @@
 }
 
 .text, .title, .header, .section, #ingredients, .source {
-    font-family: Arsenal, verdana, Helvetica;
+    font-family: 'Share Tech Mono', monospace;
 }
 
 .title, .text, .image {
